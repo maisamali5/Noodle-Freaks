@@ -93,3 +93,22 @@
     padding : 0px;
     color:black;
   }
+  .col-md-3{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
+  }
+  .txt{
+      color: azure;
+  position: absolute;
+  top: 28%;
+  left: 6%;
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  }
+  body{
+    background-color: bisque;
+  }
+  h1{
+    font-size: 75px;
+  }
