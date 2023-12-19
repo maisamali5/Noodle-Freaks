@@ -18,3 +18,8 @@ body{
 h1{
   font-size: 75px;
 }
+.alert{
+  top:92%;
+  right:01%;
+  position: fixed;
+}
